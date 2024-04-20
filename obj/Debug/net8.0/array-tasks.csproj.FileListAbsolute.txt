@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\array-tasks\bin\Debug\net8.0\array-tasks.exe
+C:\Users\Amin\Desktop\C#\array-tasks\bin\Debug\net8.0\array-tasks.deps.json
+C:\Users\Amin\Desktop\C#\array-tasks\bin\Debug\net8.0\array-tasks.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\array-tasks\bin\Debug\net8.0\array-tasks.dll
+C:\Users\Amin\Desktop\C#\array-tasks\bin\Debug\net8.0\array-tasks.pdb
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.dll
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\refint\array-tasks.dll
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.pdb
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\array-tasks.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\array-tasks\obj\Debug\net8.0\ref\array-tasks.dll
