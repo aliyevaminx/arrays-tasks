@@ -48,6 +48,7 @@
 //        {
 //            Console.WriteLine(numberList[j]);
 //        }
+            break;
 //    }
 //}
 
